@@ -1,1 +1,2 @@
-# PRO-C81-SPECTAGRAM-STAGE-1Assigned
+# spectagram-stage-1
+project solution for c81
